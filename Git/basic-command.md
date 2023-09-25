@@ -41,4 +41,5 @@ git config --global user.<이름>
     - `git push (origin)<원격저장소이름> <브랜치이름>`
     - 원격저장소에 브랜치를 업로드
 
+- 'dfaafa' 
     
