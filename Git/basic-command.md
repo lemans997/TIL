@@ -41,3 +41,13 @@ git config --global user.<이름>
     - `git push (origin)<원격저장소이름> <브랜치이름>`
     - 원격저장소에 브랜치를 업로드
 
+- `pull`
+    - `git pull (origin)<원격저장소이름> <브랜치이름>`
+    - 원격저장소에서 브랜치를 다운로드
+
+- `clone`
+    -`git clone <주소>`
+    - 원격저장소에 등록된 브랜치를 로컬에 가져와 새로 파일/폴더를 만듬
+    - 설치한 폴더에 우클릭 후 `Open Git Bash here`를 활성화 후에 입력한다.
+
+    
